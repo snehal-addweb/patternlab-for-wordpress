@@ -47,6 +47,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', dirname( __FILE__ ) . '/wp/' );
 }
 
+// ==================
+// Set site root
+// ==================
+if ( ! defined( 'SITEROOT' ) ) {
+	define( 'SITEROOT', dirname( __FILE__ ) );
+}
+
 // ======================================
 // Fake HTTP Host (for CLI compatibility)
 // ======================================

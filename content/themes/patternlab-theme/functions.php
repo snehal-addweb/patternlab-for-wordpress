@@ -1,5 +1,4 @@
 <?php
 
-// Load mustache.php
-require 'inc/mustache-php/src/Mustache/Autoloader.php';
-Mustache_Autoloader::register();
+// Load includes
+require 'inc/mustache-php/settings.php';
