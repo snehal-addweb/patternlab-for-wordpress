@@ -14,3 +14,7 @@ patternlab/vendor
 # Logs
 # -------------------------------------
 content/debug.log
+
+# Vagrant
+# -------------------------------------
+.vagrant
