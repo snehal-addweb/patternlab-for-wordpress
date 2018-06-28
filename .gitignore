@@ -10,3 +10,7 @@
 # -------------------------------------
 node_modules
 patternlab/vendor
+
+# Logs
+# -------------------------------------
+content/debug.log
